@@ -1,0 +1,21 @@
+{
+  "name": "حساب‌یار | آموزش حسابداری",
+  "short_name": "حساب‌یار",
+  "description": "آموزش تصویری و مرحله‌ای حسابداری مغازه و شرکت",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#080a0e",
+  "theme_color": "#080a0e",
+  "icons": [
+    {
+      "src": "/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
