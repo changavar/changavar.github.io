@@ -1,4 +1,4 @@
-const CACHE_NAME = "celinano-rd-shell-v2";
+const CACHE_NAME = "celinano-rd-shell-v3";
 const BASE_URL = self.registration.scope;
 const APP_SHELL = [BASE_URL, new URL("manifest.webmanifest", BASE_URL), new URL("favicon.svg", BASE_URL)];
 
